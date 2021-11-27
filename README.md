@@ -1,1 +1,1 @@
-# Antika-Dukkani-Bootstrap
+CSS ile hazırlanmış olan Antika Dükkanı adlı çalışma, bootstrap ile yeniden düzenlenmiştir.
